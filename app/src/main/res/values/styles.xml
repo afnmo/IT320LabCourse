@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="MainStyle">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+
+    <style name="MainStyle.PrimaryText">
+        <item name="android:textColor">@color/purple_200</item>
+    </style>
+
+    <style name="MainStyle.SecondaryTxt">
+        <item name="android:textColor">@color/black</item>
+    </style>
+</resources>
